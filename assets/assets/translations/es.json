@@ -288,6 +288,7 @@
   "select_scanned_by_hint": "Todos los Empleados",
   "all_users": "Todos los Usuarios",
   "all_properties": "Todas las Propiedades",
+  "all_employees": "Todos los Empleados",
   "all_rules": "Todas las Reglas",
   "status_all": "Todos los Estados",
   "status_completed": "Completado",
@@ -592,5 +593,11 @@
   "no_matching_subscribers": "No se encontraron suscriptores que coincidan.",
   "not_applicable": "N/A",
   "joined_label": "Registrado: {}",
-  "confirm_opt_out_user_message": "¿Está seguro de que desea cancelar la suscripción de {} ({}) en su nombre?"
+  "confirm_opt_out_user_message": "¿Está seguro de que desea cancelar la suscripción de {} ({}) en su nombre?",
+  "no_checkout_reset": "Este registro no tiene salida para reiniciar.",
+  "reset_checkout_warning": "¿Está seguro de que desea reiniciar la salida de este registro? Esto eliminará la hora de salida.",
+  "checkout_reset_success": "Salida reiniciada con éxito",
+  "delete_checkin_log_warning": "¿Está seguro de que desea eliminar este registro de entrada? Esta acción no se puede deshacer.",
+  "all_buildings": "All Buildings",
+  "admin": "Admin"
 }

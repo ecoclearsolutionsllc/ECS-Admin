@@ -288,6 +288,7 @@
   "select_scanned_by_hint": "All Employees",
   "all_users": "All Users",
   "all_properties": "All Properties",
+  "all_employees": "All Employees",
   "all_rules": "All Rules",
   "status_all": "All Status",
   "status_completed": "Completed",
@@ -592,5 +593,11 @@
   "no_matching_subscribers": "No matching subscribers found.",
   "not_applicable": "N/A",
   "joined_label": "Joined: {}",
-  "confirm_opt_out_user_message": "Are you sure you want to unsubscribe {} ({}) on their behalf?"
+  "confirm_opt_out_user_message": "Are you sure you want to unsubscribe {} ({}) on their behalf?",
+  "no_checkout_reset": "This log has no check-out to reset.",
+  "reset_checkout_warning": "Are you sure you want to reset the check-out for this record? This will remove the check-out time.",
+  "checkout_reset_success": "Check-out reset successfully",
+  "delete_checkin_log_warning": "Are you sure you want to delete this check-in log record? This action cannot be undone.",
+  "all_buildings": "All Buildings",
+  "admin": "Admin"
 }
