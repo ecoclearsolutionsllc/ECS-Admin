@@ -601,5 +601,6 @@
   "checkout_reset_success": "Salida reiniciada con éxito",
   "delete_checkin_log_warning": "¿Está seguro de que desea eliminar este registro de entrada? Esta acción no se puede deshacer.",
   "all_buildings": "All Buildings",
-  "admin": "Admin"
+  "admin": "Admin",
+  "image_preview": "Vista previa de la imagen"
 }
