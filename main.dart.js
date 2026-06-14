@@ -46287,7 +46287,7 @@ s=1
 break
 case 1:return A.l(q,r)}})
 return A.m($async$b_P,r)},
-aY(){switch(0){case 0:return"http://localhost:8000/api/"}},
+aY(){switch(1){case 1:return"https://api.ecoclearsolutions.net/api/"}},
 cC(){var s=0,r=A.n(t.y),q
 var $async$cC=A.j(function(a,b){if(a===1)return A.k(b,r)
 for(;;)switch(s){case 0:s=3
