@@ -610,5 +610,7 @@
   "add_photo": "Agregar foto",
   "tap_to_add_photo": "Toque para agregar foto",
   "service_note_created": "Nota de servicio creada correctamente",
-  "service_note_updated": "Nota de servicio actualizada correctamente"
+  "service_note_updated": "Nota de servicio actualizada correctamente",
+  "add_avatar": "Agregar Avatar",
+  "no_file_selected": "Ningún archivo seleccionado"
 }

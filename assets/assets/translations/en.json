@@ -610,5 +610,7 @@
   "add_photo": "Add Photo",
   "tap_to_add_photo": "Tap To Add Photo",
   "service_note_created": "Service note created successfully",
-  "service_note_updated": "Service note updated successfully"
+  "service_note_updated": "Service note updated successfully",
+  "add_avatar": "Add Avatar",
+  "no_file_selected": "No file selected"
 }
