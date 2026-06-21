@@ -612,5 +612,22 @@
   "service_note_created": "Service note created successfully",
   "service_note_updated": "Service note updated successfully",
   "add_avatar": "Add Avatar",
-  "no_file_selected": "No file selected"
+  "no_file_selected": "No file selected",
+  "notification_preferences": "Notification Preferences",
+  "notification_type": "Notification Type",
+  "email_notification": "Email",
+  "sms_notification": "SMS",
+  "not_available": "Not available",
+  "perm_daily_violation_count": "Daily Count for Violations",
+  "perm_daily_violation_count_desc": "Receive daily violation summary reports.",
+  "perm_checkout_notes": "Checkout Notes",
+  "perm_checkout_notes_desc": "Receive notes entered upon checkout.",
+  "perm_first_pickup": "First Pickup",
+  "perm_first_pickup_desc": "Notify on the first pickup event at a property.",
+  "perm_property_check_in": "Property Check-In",
+  "perm_property_check_in_desc": "Notify when checking in to a property.",
+  "perm_property_check_out": "Property Check-Out",
+  "perm_property_check_out_desc": "Notify when checking out from a property.",
+  "perm_create_violation": "Create Violation",
+  "perm_create_violation_desc": "Notify immediately when a new violation is created."
 }
