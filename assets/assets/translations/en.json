@@ -612,6 +612,7 @@
   "service_note_created": "Service note created successfully",
   "service_note_updated": "Service note updated successfully",
   "add_avatar": "Add Avatar",
+  "edit_avatar": "Edit Avatar",
   "no_file_selected": "No file selected",
   "notification_preferences": "Notification Preferences",
   "notification_type": "Notification Type",
