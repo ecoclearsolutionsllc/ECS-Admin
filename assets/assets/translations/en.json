@@ -598,6 +598,7 @@
   "delete_checkin_log_warning": "Are you sure you want to delete this check-in log record? This action cannot be undone.",
   "all_buildings": "All Buildings",
   "admin": "Admin",
+  "employee": "Employee",
   "image_preview": "Image Preview",
   "thank_you_title": "Thank You!",
   "thank_you_message": "Your payment was successful and your subscription is active.",
