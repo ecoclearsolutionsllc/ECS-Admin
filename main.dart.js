@@ -89263,8 +89263,7 @@ l=A.z(l,l)
 if(o!=null&&o.length!==0)l.k(0,"Authorization","Bearer "+o)
 m.r.I(0,l)
 a6.aQ(0,new A.b_A(m))
-l=a5.length
-if(l!==0)m.x.k(0,"existingImages",B.O.d2(a5,null))
+m.x.k(0,"existingImages",B.O.d2(a5,null))
 if(a8!=null)for(l=a8.length,k=m.y,j=t.zb,i=j.i("hv<1>"),h=j.i("dz<1>"),g=0;g<a8.length;a8.length===l||(0,A.K)(a8),++g){f=a8[g]
 e=f.b
 d=p.a8M(e)
