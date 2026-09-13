@@ -276,6 +276,8 @@
   "col_scheduled_days": "Scheduled Days",
   "col_missed_days": "Missed Days",
   "col_completion_rate": "Completion Rate",
+  "col_bonus_amount": "Bonus ($)",
+  "failed_to_save_bonus": "Failed to save bonus amount",
   "no_scheduled_shifts_this_month": "No employees were scheduled this month",
   "previous_month": "Previous Month",
   "next_month": "Next Month",
