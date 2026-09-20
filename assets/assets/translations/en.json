@@ -277,7 +277,7 @@
   "monthly_completion_log": "Monthly Completion",
   "col_scheduled_days": "Scheduled Days",
   "col_missed_days": "Missed Days",
-  "missed_dates_label": "Missed dates:",
+  "missed_dates_label": "Missed dates ({}):",
   "col_completion_rate": "Completion Rate",
   "col_bonus_amount": "Bonus",
   "col_call_back": "Call Back",

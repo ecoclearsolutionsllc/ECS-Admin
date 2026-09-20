@@ -278,7 +278,7 @@
   "col_employee": "Empleado",
   "col_scheduled_days": "Días Programados",
   "col_missed_days": "Días Perdidos",
-  "missed_dates_label": "Fechas perdidas:",
+  "missed_dates_label": "Fechas perdidas ({}):",
   "col_completion_rate": "Tasa de Cumplimiento",
   "col_bonus_amount": "Bono ($)",
   "col_call_back": "Devolución",
