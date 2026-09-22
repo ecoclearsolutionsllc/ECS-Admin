@@ -282,6 +282,7 @@
   "col_completion_rate": "Tasa de Cumplimiento",
   "col_bonus_amount": "Bono ($)",
   "col_call_back": "Devolución",
+  "col_salary_amount": "Salario ($)",
   "failed_to_save_bonus": "Error al guardar los cambios",
   "bonuses_saved": "Cambios guardados correctamente",
   "no_scheduled_shifts_this_month": "No hubo empleados programados este mes",

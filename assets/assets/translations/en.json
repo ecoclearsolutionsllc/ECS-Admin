@@ -281,6 +281,7 @@
   "col_completion_rate": "Completion Rate",
   "col_bonus_amount": "Bonus",
   "col_call_back": "Call Back",
+  "col_salary_amount": "Salary",
   "failed_to_save_bonus": "Failed to save changes",
   "bonuses_saved": "Changes saved successfully",
   "no_scheduled_shifts_this_month": "No employees were scheduled this month",
