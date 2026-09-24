@@ -683,6 +683,7 @@
   "late_recipient_edit": "Edit Recipient",
   "late_recipient_name": "Name (optional)",
   "late_recipient_phone": "Phone (SMS)",
+  "late_recipient_country_code": "Country code",
   "late_recipient_email": "Email",
   "late_recipient_need_contact": "Enter a phone number or an email.",
   "late_recipient_none": "No recipients yet. Add a phone number or email to get late arrival alerts.",

@@ -684,6 +684,7 @@
   "late_recipient_edit": "Editar Destinatario",
   "late_recipient_name": "Nombre (opcional)",
   "late_recipient_phone": "Teléfono (SMS)",
+  "late_recipient_country_code": "Código de país",
   "late_recipient_email": "Correo electrónico",
   "late_recipient_need_contact": "Ingrese un número de teléfono o un correo electrónico.",
   "late_recipient_none": "Aún no hay destinatarios. Agregue un teléfono o correo para recibir alertas de llegadas tardías.",
